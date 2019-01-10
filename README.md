@@ -2,7 +2,7 @@
 
 Another [Three Thing Game](https://threethinggame.com/post/2017-05-12-the-fizzyo-event/), another nonsense game.
 
-This year I was joined by Joe Kent, [Enrico Gualandi](https://www.linkedin.com/in/enrico-gualandi-7a8827101/), and [James Horobin](https://www.linkedin.com/in/james-lee-horrobin-752427169/).
+This year I was joined by Joe Kent, [Enrico Gualandi](https://www.linkedin.com/in/enrico-gualandi-7a8827101/), and [James Horobin](https://www.linkedin.com/in/james-lee-horrobin-752427169/). Our words this time around were Canada, Wood, & Syrup. I'm not sure how many games about canadian syrup there are but I'm sure there aren't enough.
 
 ## The Plan
 This year we forgot to keep it simple. So we opted to try and get to grips with the monogame framework and learn how to make a multiplayer networked game in under 24 hours. This was not a clever idea.
